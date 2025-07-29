@@ -1,3 +1,3 @@
 # dummy
-hello world\n
+hello world
 new branch
